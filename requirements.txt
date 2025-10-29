@@ -1,0 +1,13 @@
+# Web スクレイピング関連
+beautifulsoup4>=4.9.0
+requests>=2.25.0
+
+# プログレスバー表示
+tqdm>=4.50.0
+
+# Python 3.7以下のサポート用（必要に応じて）
+typing_extensions>=4.5.0
+
+# その他の依存関係
+soupsieve>=2.4.0
+colorama>=0.4.6
