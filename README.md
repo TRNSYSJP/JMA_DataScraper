@@ -59,8 +59,6 @@ https://www.data.jma.go.jp/obd/stats/etrn/view/hourly_s1.php?prec_no=44&block_no
 |静穏|0|
 
 
-## 動作環境
-
 ## セットアップ
 
 ### Python仮想環境の構築
