@@ -23,11 +23,12 @@ https://www.data.jma.go.jp/obd/stats/etrn/view/hourly_s1.php?prec_no=44&block_no
 
 ![実行画面](./images/Running%20image.png)
 
+### 謝辞
+スクリプトはリンク先の記事を参考にスクレイピングとTRNSYS用に値の変換を行っています。
 
-以下のリンク先の記事を参考にスクレイピングとTRNSYS用に値の変換を行っています。
+[気象データを Python でスクレイピングする方法](https://www.gis-py.com/entry/scraping-weather-data)
 
-[気象データを Python でスクレイピングする方法](https://www.gis-py.com/entry/scraping-weather-data?utm_source=pocket_mylist)
-
+本スクリプトの公開にあたり、上記記事の作成者の方から快くご許可をいただきました。この場を借りて深く感謝申し上げます。
 
 ## 変更点
 * 全天日射量をMJ/m2からW/m2へ換算
